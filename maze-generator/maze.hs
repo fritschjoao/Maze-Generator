@@ -1,5 +1,4 @@
--- TRABALHO 1 : HASKELL
--- ALUNO: JOAO GABRIEL FRITSCH
+-- MAZE GENERATOR
 -- "Binary Tree algorithm" :
 -- http://weblog.jamisbuck.org/2011/2/1/maze-generation-binary-tree-algorithm#
 
